@@ -1,2 +1,1 @@
-# digital-portfolio-chelsea
-Created with CodeSandbox
+Chelsea Delancy
